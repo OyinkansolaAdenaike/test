@@ -1,0 +1,21 @@
+h1{
+     color:rgb(255, 238, 0);
+     text-align: center;
+     text-decoration: underline;
+     font-size: 80px;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.bio {
+    height: 150px;
+      border-width: 200px ;
+      overflow: scroll;
+      margin: 20px 20px;
+      padding: 10px 10px;
+      border: 15px dashed hsl(81, 100%, 55%);
+      border-radius: 50px;
+      box-shadow: 10px 20px 15px rgb(255, 192, 255);
+     }
+     body{
+          background-color:rgb(255, 10, 10);
+     }
